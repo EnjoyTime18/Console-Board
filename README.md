@@ -14,8 +14,8 @@
 > ### :memo::bookmark_tabs: 회원가입, 로그인, 게시글 쓰기, 게시글 보기
 > 
 > ![image19](https://github.com/EnjoyTime18/Console-Board/assets/122413012/328431e8-fb02-4191-92f5-638803e61267)
-> ![image16](https://github.com/EnjoyTime18/Console-Board/assets/122413012/b593cc7d-0e7d-4a8e-a090-2635415b3fa5) <br/><br/>
-> 
+> ![image16](https://github.com/EnjoyTime18/Console-Board/assets/122413012/b593cc7d-0e7d-4a8e-a090-2635415b3fa5)
+<br/><br/>
 > ![image7](https://github.com/EnjoyTime18/Console-Board/assets/122413012/721e2240-215b-414e-a985-81f00d1c31d3)
 > ![image12](https://github.com/EnjoyTime18/Console-Board/assets/122413012/5d61ee2b-b3d9-40a3-912a-ba7ae6b731d8)
 > 
